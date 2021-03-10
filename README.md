@@ -3,7 +3,7 @@ cropface.py
 >Command line tool that takes an image, detecs the faces, and crops them
 >Saves cropped faces to local dir
 >```
->Usage: python cropface.py --fname {image-filename}
+>python cropface.py --fname {image-filename}
 >```
 
 detectface.py
