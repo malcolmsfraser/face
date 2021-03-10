@@ -5,9 +5,11 @@ cropface.py
 >```
 >Usage: python cropface.py --fname {image-filename}
 >```
+
 detectface.py
 >Takes a user webcam video feed, and detects faces
->**Uses fuctions from cropface.py***
+>**Uses fuctions from cropface.py*** 
+
 screenface.py
 >Takes a user screen-capture video feed, and detects faces
 >**Uses fuctions from cropface.py***
